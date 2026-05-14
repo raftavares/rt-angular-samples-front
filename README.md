@@ -12,3 +12,4 @@ Este projeto é a interface de demonstração construída em **Angular 18** (Sta
 2. Clone o repositório e instale as dependências:
    ```bash
    npm install
+w. Certifique-se de ter baichado o backend https://github.com/raftavares/armario-back-sb-java
